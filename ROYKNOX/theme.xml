@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<theme>
+  <format-version>4.0</format-version>
+  <themecolor>3</themecolor>
+  <fontcolor>#FF178401</fontcolor>
+  <fontshadowcolor>#18000000</fontshadowcolor>
+  <focuscolor>#33FFFFFF</focuscolor>
+  <homescreen-dimmer>#171F497D</homescreen-dimmer>
+  <functionscreen-dimmer>#1931869B</functionscreen-dimmer>
+  <titlename-dimmer>#17C00000</titlename-dimmer>
+  <homebgm-enable>True</homebgm-enable>
+  <label>ROXKNOX</label>
+</theme>
